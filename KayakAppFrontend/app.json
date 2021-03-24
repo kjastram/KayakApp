@@ -1,0 +1,12 @@
+{
+  "name": "KayakAppFrontend",
+  "displayName": "KayakAppFrontend",
+  "expo": {
+    "name": "KayakAppFrontend",
+    "slug": "KayakAppFrontend",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
